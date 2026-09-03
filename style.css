@@ -109,7 +109,13 @@ a {
 
 .byline {
     font-weight: 300;
-    padding: 12px 0;
+    padding: 12px 0 0 0;
+}
+
+.date {
+  font-weight: 300;
+  font-size: 0.8rem;
+  color: #939087;
 }
 
 .figure {

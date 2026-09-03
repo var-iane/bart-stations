@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+final-project/
+
 # User-specific files
 *.rsuser
 *.suo
@@ -399,3 +401,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
