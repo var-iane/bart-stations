@@ -103,6 +103,14 @@ a {
     color: #ee4154;
 }
 
+.note {
+  font-weight: 200;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #939087;
+  padding-bottom: 3rem;
+}
+
 .full-bleed {
     width: 100%;
     grid-column: 1 / 4;
